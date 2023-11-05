@@ -3,3 +3,10 @@ crashdump/
 log/
 minimap/
 storeimages/
+
+cache/boostedcreature.json
+cache/compendium.json
+cache/eventschedule.json
+cache/onlinenumbers.json
+
+conf/clientoptions.json
