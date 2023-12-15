@@ -3,3 +3,5 @@ crashdump/
 log/
 minimap/
 storeimages/
+cache/compendium.json
+conf/clientoptions.json
