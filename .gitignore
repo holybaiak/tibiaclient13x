@@ -4,4 +4,7 @@ log/
 minimap/
 storeimages/
 cache/compendium.json
+cache/boostedcreature.json
+cache/eventschedule.json
+cache/onlinenumbers.json
 conf/clientoptions.json
