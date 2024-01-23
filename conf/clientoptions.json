@@ -9,10 +9,10 @@
     "clientWindowOptions": {
         "clientWindowHeight": 0,
         "clientWindowIsBorderless": false,
-        "clientWindowIsMaximized": false,
+        "clientWindowIsMaximized": true,
         "clientWindowPositionX": 0,
         "clientWindowPositionY": 0,
-        "clientWindowScreenName": "",
+        "clientWindowScreenName": "\\\\.\\DISPLAY1",
         "clientWindowWidth": 0
     },
     "controlButtonsOptions": {
