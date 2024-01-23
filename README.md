@@ -1,4 +1,4 @@
-# Tibia Client 13.21.13839
+# Tibia Client 13.32.14520
 
 Tibia Cliente 13x usado no projeto Holy Baiak.
 
