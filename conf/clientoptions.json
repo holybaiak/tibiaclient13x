@@ -3128,7 +3128,7 @@
     },
     "pinnedCharacters": [
     ],
-    "rendererChangeConfirmationRequired": true,
+    "rendererChangeConfirmationRequired": false,
     "survey": {
         "id": 0,
         "status": 2
